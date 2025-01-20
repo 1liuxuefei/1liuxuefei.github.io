@@ -1,8 +1,8 @@
 - [:octocat: 首页](/README)
 - :memo: 目录
-   - 第1章：开发入门
+   - 第1章：测试入门
    
-       - [第1节：IDEA 插件怎么开发](/md/idea-plugin/2021-08-27-技术调研IDEA插件怎么开发.md)
+       - [第1节：测试基础概念](/md/idea-plugin/1.测试基础知识.md)
        - [第2节：IDEA 插件怎么发布](/md/idea-plugin/2021-08-29-技术实践IDEA插件怎么发布.md)
    
    - 第2章：基础功能
