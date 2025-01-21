@@ -1,7 +1,7 @@
 # 《IDEA Plugin 开发手册》• pdf
 
 作者：刘豆包
-<br/>博客：[https://bugstack.cn](https://bugstack.cn)
+
 
 >沉淀、分享、成长，让自己和他人都能有所收获！😄
 
