@@ -1,4 +1,4 @@
-- [:octocat: 首页](/README)
+- [:octocat: 前提](/README)
 - :memo: 目录
    - 第1章：测试入门
    
